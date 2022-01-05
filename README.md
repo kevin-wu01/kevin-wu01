@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Kevin, a third-year computer science student at the University of British Columbia. I'm currently working on a new project called Roastable and planning nwHacks 2022.
+
+- 😄 Pronouns: He/him/his
+- 💬 Ask me about hackathons!
 <!--
 **kevin-wu01/kevin-wu01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
