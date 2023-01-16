@@ -4,7 +4,7 @@
 
 🎓 &nbsp;I'm currently studying Computer Science at the University of British Columbia.\
 💡 &nbsp;I want to learn more about different technologies, currently working on a web app and a chrome extension!\
-✍️ &nbsp;In my free time, I enjoy cooking for myself or playing a round of badminton.\
+✍️ &nbsp;In my free time, I enjoy cooking for myself or playing a round of badminton.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
